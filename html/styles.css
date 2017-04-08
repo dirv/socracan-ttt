@@ -1,0 +1,20 @@
+td {
+  width: 100px;
+  height: 100px;
+  border: 1px solid grey;
+  font-size: 50pt;
+  text-align: center;
+}
+
+p {
+  font-size: 50pt;
+}
+
+table {
+  margin: auto;
+}
+
+body {
+  text-align: center;
+  margin: auto;
+}
